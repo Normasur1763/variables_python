@@ -36,9 +36,15 @@ print('el resultado de sumar', numero_1, 'y',numero_2, 'es', suma)
 
 
 # Resta
+resta= numero_1 - numero_2
+print('El resultado de restar', numero_2,'y',numero_1, 'es', resta)
+
+#aca me parece que estaría mal: ya que la resta deberia dar negativo.
 
 
 # División
+division= numero_1 // numero_2
+print('el resultado de dividir', numero_1,'y' ,numero_2, 'es', division)
 
 
 
