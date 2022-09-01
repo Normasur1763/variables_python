@@ -29,10 +29,13 @@ palabra_4= str(input())
 # De cada palabra debe tomar la primera letra y armar el acrónimo
 # Ejemplo: Alumbrado, barrido y limpieza --> ABL
 # Imprimir el resultado en pantalla
- 
-palabra_1='Ushuaia'
-Ushuaia_len = len (palabra_1)
-print(palabra_1, 'tiene', Ushuaia_len, 'caracteres')
+
+print('Ingrese palabra 1:')
+palabra_1 = str(input())
+
+caracter_inicial = palabra_1 [0]
+print =(caracter_inicial) 
+
 
 
 
